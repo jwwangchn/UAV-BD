@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: [UAV-Bottle Dataset]
 
 description: [A short description of your site's purpose]
+
+show_downloads: [true]
