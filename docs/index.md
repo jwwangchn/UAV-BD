@@ -14,9 +14,11 @@ You can download UAV-BD from [Google Drive](https://drive.google.com/open?id=1uZ
 
 ## Citation
 If you make use of the UAV-BD dataset, please cite our following paper:
-> @inproceedings{wang2018,
+"""
+@inproceedings{wang2018,
 title={Bottle Detection in the Wild Using Low-Altitude Unmanned Aerial Vehicles},
 author={Jinwang Wang, Wei Guo, Ting Pan, Huai Yu, Wen Yang},
 booktitle={Fusion},
 year={2018}
 }
+"""
