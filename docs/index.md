@@ -7,9 +7,8 @@ In the dataset, each instance's location is annotated by a quadrilateral boundin
 
 ## Development kit
 
-The [Development kit]() provide the following function
+The [Development kit](https://github.com/jwwangchn/UAV-BD.git) provide the following function
 - Load and visulize the data.
-- Evaluate the result.
 
 ## Download dataset
-You can download UAV-BD from Google Drive. The current version of dataset is 1.0.0.
+You can download UAV-BD from [Google Drive](https://drive.google.com/open?id=1uZNHdKUFlNXVnDSsJNldOw0R5JbXwPLS). The current version of dataset is 1.0.0.
