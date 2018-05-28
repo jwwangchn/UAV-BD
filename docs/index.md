@@ -3,9 +3,8 @@ In this paper, we propose a new dataset and benchmark for low altitude UAV objec
 
 ## Annotation format
 
-In the dataset, each instance's location is annotated by a quadrilateral bounding boxes, which can be denoted as hh\\( \alpha^2 + a^2\\)
-aaaafsgg
-$$a^2+b^2=c^2$$ aaaa
+In the dataset, each instance's location is annotated by a quadrilateral bounding boxes.
+
 ## Development kit
 
 The [Development kit]() provide the following function
