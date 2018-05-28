@@ -5,4 +5,5 @@ description: Jinwang Wang, Wei Guo, Ting Pan, Huai Yu, Wen Yang
 
 show_downloads: true
 
-markdown: redcarpet
+mathjax: true
+markdown: kramdown
