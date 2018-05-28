@@ -16,7 +16,7 @@ The [Development kit](https://github.com/jwwangchn/UAV-BD.git) provide the follo
 You can download UAV-BD from [Google Drive](https://drive.google.com/open?id=1uZNHdKUFlNXVnDSsJNldOw0R5JbXwPLS). The current version of dataset is 1.0.0.
 
 ## Citation
-If you make use of the UAV-BD dataset, please cite our following paper:
+If you used UAV-BD dataset, please cite our following paper:
 
 ```
 @inproceedings{wang2018,
@@ -28,5 +28,4 @@ year={2018}
 ```
 
 ## Contact
-If you have any the problem of feedback in using UAV-BD, please contact
-- Jinwang Wang at jwwangchn@whu.edu.cn
+If you have any the problem of feedback in using UAV-BD, please contact jwwangchn@whu.edu.cn.
