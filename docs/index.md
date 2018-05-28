@@ -3,7 +3,7 @@ In this paper, we propose a new dataset and benchmark for low altitude UAV objec
 
 ## Annotation format
 
-In the dataset, each instance's location is annotated by a quadrilateral bounding boxes, which can be denoted as <img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
+In the dataset, each instance's location is annotated by a quadrilateral bounding boxes, which can be denoted as $$\alpha^2$$
 
 ## Development kit
 
