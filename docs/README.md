@@ -10,7 +10,7 @@ year={2018}
 ```
 
 ## Annotation
-We use `roLabelImg` to annotate UAV-BD, this tool can be download in ![this](https://github.com/cgvict/roLabelImg.git) website. You can read `README` carefully to get enough usage information. 
+We use `roLabelImg` to annotate UAV-BD, this tool can be download in [this](https://github.com/cgvict/roLabelImg.git) website. You can read `README` carefully to get enough usage information. 
 
 ## Visual
 In this kit, you can use `python visual.py IMAGEPATH ANNOTATIONPATH` to visual annotation information.
