@@ -9,11 +9,11 @@ In the dataset, each instance's location is annotated by a quadrilateral boundin
 
 ## Development kit
 
-The [Development kit](https://github.com/jwwangchn/UAV-BD.git) provide the following function
+The [Development kit](https://github.com/jwwangchn/wwtool.git) provide the following function
 - Load and visulize the data.
 
 ## Download dataset
-You can download UAV-BD from [Google Drive](https://drive.google.com/open?id=1uZNHdKUFlNXVnDSsJNldOw0R5JbXwPLS). The current version of dataset is 1.0.0.
+You can download UAV-BD from [Google Drive](https://drive.google.com/file/d/1igEslsOFxj5YF0qiAr5eRbp7c6-YICxE/view?usp=sharing). The current version of dataset is 1.0.0.
 
 ## Citation
 If you used UAV-BD dataset, please cite our following paper:
