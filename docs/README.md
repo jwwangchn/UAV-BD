@@ -1,4 +1,7 @@
 # UAV Bottle Dataset Development Tool
+
+[Download UAV-BD v1.0.0 on Hugging Face](https://huggingface.co/datasets/jwwangchn/UAV-BD) (images and COCO annotations).
+
 If you used UAV-BD dataset, please cite our following paper:
 ```
 @inproceedings{wang2018,

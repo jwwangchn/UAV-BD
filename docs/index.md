@@ -13,7 +13,7 @@ The [Development kit](https://github.com/jwwangchn/wwtool.git) provide the follo
 - Load and visulize the data.
 
 ## Download dataset
-You can download UAV-BD from [Google Drive](https://drive.google.com/file/d/1igEslsOFxj5YF0qiAr5eRbp7c6-YICxE/view?usp=sharing). The current version of dataset is 1.0.0.
+[Download UAV-BD v1.0.0 on Hugging Face](https://huggingface.co/datasets/jwwangchn/UAV-BD). The ZIP includes the images and COCO annotations for the training, validation, and test splits.
 
 ## Citation
 If you used UAV-BD dataset, please cite our following paper:
